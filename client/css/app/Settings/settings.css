@@ -1,0 +1,103 @@
+.edit-type {
+    position: relative;
+    margin: 0;
+    width: 100%;
+    font-size: 24px;
+    font-family: inherit;
+    font-weight: inherit;
+    line-height: 1.4em;
+    border: 0;
+    outline: none;
+    color: inherit;
+    padding: 6px;
+    border: 1px solid #999;
+    box-shadow: inset 0 -1px 5px 0 rgba(0, 0, 0, 0.2);
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+li .edit-type {
+    display: none;
+}
+
+
+li.editing .edit-type {
+    display: block;
+}
+
+li.editing .view {
+    display: none;
+}
+
+li .destroy,
+li .editSetings {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    bottom: 0;
+	height: 35px;
+    width: 20px;
+    margin: auto 0;
+    font-size: 30px;
+    color: #000;
+    margin-bottom: 11px;
+    transition: color 0.2s ease-out;
+}
+
+li .editSetings {
+    right: 35px;
+}
+
+li:hover .destroy, 
+li:hover .editSetings {
+    display: block;
+}
+
+.sizeSetings {
+  font-size: 15px
+}
+
+button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: none;
+    font-size: 100%;
+    vertical-align: baseline;
+    font-family: inherit;
+    font-weight: inherit;
+    color: inherit;
+    -webkit-appearance: none;
+    appearance: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+button, input[type="checkbox"] {
+    outline: none;
+}
+
+li .label-type {
+    display: block;
+}
+
+li.list-group-item.editing {
+    padding: 0;
+}
+
+.showScroll {
+    height: 23em;
+    border: 1px solid #ccc;
+    padding: 0;
+    margin: 0;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+#role {
+    font-size: 15px;
+}

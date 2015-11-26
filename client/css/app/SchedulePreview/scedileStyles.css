@@ -1,0 +1,124 @@
+.text-center {
+  text-align: center;
+}
+
+.hiden {
+    display: none;
+}
+
+.modal-calendar table {
+    margin: 0 auto;
+    width: 60%;
+    margin-bottom: 3%;
+    border-collapse: collapse;
+}
+
+.modal-calendar table tr {
+    height: 2.8em;
+}
+
+.modal-calendar table tr td {
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #49a1c6;
+}
+
+.modal-calendar table tr td a {
+    text-decoration: none;
+    font-size: 1.3em;
+    padding: 10 5 10 10;
+}
+
+.modal-calendar table tr .emptyCell {
+    background-color: white;
+}
+
+.month tr:nth-child(2n) {
+    background-color: #99cc99;
+}
+
+.daysHeader th {
+    background-color: #c6e7f4;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #49a1c6;
+}
+
+.days {
+    background-color: #99cccc;
+    cursor: pointer;
+}
+
+.days td {
+    font-size: 1.3em;
+}
+
+.monthHeader {
+    text-align: center;
+}
+
+.monthHeader td {
+    text-align: center;
+    background-color: #70adc9;
+    font-size: 1.5em;
+    color: white;
+}
+
+.modal-preview {
+  background-color: #99cccc;
+}
+
+.modal-preview {
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 3%;
+    border-collapse: collapse;
+}
+
+.modal-preview tr td {
+    font-size: 1.3em;
+    border: 1px solid #49a1c6;
+    padding: 10px 5px 10px 10px;
+}
+
+.modal-schedule {
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 3%;
+    border-collapse: collapse;
+}
+
+.modal-schedule tr td {
+    text-align: center;
+    border: 1px solid #49a1c6;
+}
+
+.modal-schedule tr {
+    background-color: #49a1c6;
+}
+
+.modal-schedule tr:nth-child(2n) {
+    background-color: #99cc99;
+}
+
+.modal-schedule tr td {
+    font-size: 1.3em;
+}
+
+.preViewScroll {
+    overflow: auto;
+}
+
+.pv-event-name {
+    background-color: darkblue;
+    color: white;
+}
+
+.pv-event-resource {
+    background-color: cadetblue;
+    color: white;
+}
+
+.modalwidth {
+    width: 80%;
+}

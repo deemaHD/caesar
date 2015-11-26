@@ -1,0 +1,6 @@
+.customGlyphBtn:hover {
+    cursor: pointer;
+}
+.customGlyphBtn {
+    padding-left: 7px;
+}

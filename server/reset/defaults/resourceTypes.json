@@ -1,0 +1,18 @@
+[
+	{
+		"id": 0,
+		"name": "group"
+	},
+	{
+		"id": 1,
+		"name": "room"
+	},
+	{
+		"id": 2,
+		"name": "teacher"
+	},
+	{
+		"id": 3,
+		"name": "expert"
+	}		
+]

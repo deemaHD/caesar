@@ -1,0 +1,23 @@
+extends layout
+
+block body
+  body
+    .top-content
+      .inner-bg
+        .container
+          .row
+            .col-sm-6.col-sm-offset-3.form-box
+              .form-top
+                .form-top-left
+                  h3 Login to Caesar
+                  p Enter your username and password to log on:
+              .form-bottom
+                form.login-form(role='form', action='', method='post')
+                  .form-group
+                    p.error #{error}
+                    label(for='form-login') Login
+                    input#form-login.form-login.form-control(type='text', name='login', placeholder='login', value='Nikola')
+                  .form-group
+                    label(for='form-password') Password
+                    input#form-password.form-password.form-control(type='password', name='password', placeholder='password', value='qqq')
+                  button.btn(type='submit') Log in

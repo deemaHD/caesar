@@ -1,0 +1,39 @@
+function ResourcesModel (newAttributes) {
+	var _ = require('../../client/js/lib/underscore.js'),
+		attributes = {
+			id: '',
+			name: '',
+			type: '',
+			locationCity: '',
+			dateStart: '',
+			dateFinish: '',
+			useInSchedule: true
+			
+		};
+	
+	setModel();
+
+	function setModel () {
+		_.each(attributes, function (value, key) {
+			var isValidated = validateField(value, key);
+
+			if (isValidated) {
+				attributes[key] = newAttributes[key]
+			}
+		});
+	}
+
+	function validateField (value, key) {
+		if (attributes[key] !== undefined) {
+			return true;
+		}
+	}
+
+	this.toJSON = function () {
+		return _.clone(attributes);
+	} 
+
+	return this;
+};
+
+module.exports = ResourcesModel;

@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "name": "DoLoTo",
+        "itaName": "Dp-080.UI",             
+        "courseDirection": "Web UI",
+        "students": [
+		   {
+                "id": 0,
+                "firstName": "Дмитрий",
+                "lastName": "Петин"
+            },
+        	{
+                "id": 1,
+                "firstName": "Карина",
+                "lastName": "Чегорко"
+            },
+        	{
+                "id": 2,
+                "firstName": "Алена",
+                "lastName": "Борисова"
+            },
+        	{
+                "id": 3,
+                "firstName": "Сергей",
+                "lastName": "Андроник"
+            },
+        	{
+                "id": 4,
+                "firstName": "Иван",
+                "lastName": "Шитиков"
+            },
+        	{
+                "id": 5,
+                "firstName": "Дмитрий",
+                "lastName": "Селезень"
+            },
+        	{
+                "id": 6,
+                "firstName": "Максим",
+                "lastName": "Белинский"
+            },
+        	{
+                "id": 7,
+                "firstName": "Алексей",
+                "lastName": "Лебедянский"
+            }
+        ]
+    },
+	{
+        "id": 1,
+        "name": "Team QC",
+        "itaName": "QC",             
+        "courseDirection": "QC",
+        "students": [
+        	{
+                "id": 8,
+                "firstName": "Алена",
+                "lastName": "Крутинь"
+            },
+        	{
+                "id": 9,
+                "firstName": "Катерина",
+                "lastName": "Бекеш"
+            },
+        	{
+                "id": 10,
+                "firstName": "Михаил",
+                "lastName": "Макаренко"
+            },
+        	{
+                "id": 11,
+                "firstName": "Сергей",
+                "lastName": "'ДРОБОВИК' Цьова"
+            },
+        	{
+                "id": 12,
+                "firstName": "Артур",
+                "lastName": "Чесноков"
+            }
+        ]
+    }
+]

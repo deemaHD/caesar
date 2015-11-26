@@ -1,0 +1,6 @@
+@media (min-width: 768px){
+    .confirm-dialog {
+        width: 600px;
+        margin: 120px auto;
+    }
+}

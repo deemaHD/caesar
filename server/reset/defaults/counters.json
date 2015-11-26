@@ -1,0 +1,42 @@
+[
+	{
+		"_id": "eventsId",
+		"seq": 7
+	},
+	{
+		"_id": "resourcesId",
+		"seq": 6
+	},
+	{
+		"_id": "contributorsId",
+		"seq": 0
+	},
+	{
+		"_id": "weeksId",
+		"seq": 0
+	},
+	{
+		"_id": "accountsId",
+		"seq": 3
+	},
+	{
+		"_id": "eventTypesId",
+		"seq": 3
+	},
+	{
+		"_id": "resourceTypesId",
+		"seq": 3
+	},
+	{
+		"_id": "holidaysId",
+		"seq": 20
+	},
+	{
+		"_id": "citiesId",
+		"seq": 6
+	},
+	{
+		"_id": "countriesId",
+		"seq": 1
+	}
+]

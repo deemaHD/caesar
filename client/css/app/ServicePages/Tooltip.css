@@ -1,0 +1,75 @@
+#tt {
+    position: absolute;
+}
+
+.contributorsNames span {
+    cursor: pointer;
+}
+
+.tooltip-row {
+    margin: 0;
+    padding: 15px;
+}
+
+.showFullInfo {
+    min-width: 50px;
+    min-height: 50px;
+    position: absolute;
+    top: 0;
+    left:0;
+}
+
+
+.head {
+	margin-right: auto;
+    margin-left: auto;
+	width: 100px;
+}
+
+.positionCentr {
+    margin-left: -45px;
+	margin-top: -13px;
+}
+
+.withoutBorder {
+  border: 0;
+}
+
+.contributors-names-container {
+    display: inline-block;
+	width: 125px;
+    height: 125px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.foto {
+    width: 125px;
+	box-shadow: 10px 9px 15px;
+}
+
+.row {
+    margin-right: 0; 
+}
+
+.myFonts {
+    font-family: 'Pacifico', cursive;
+	margin-left: 20px;
+	width: 130px;
+    margin-bottom: 14px;
+}
+
+.mycoursor {
+   cursor: url(../../../../img/molot.png), auto;
+}
+
+.modal-backdrop {
+  /*  margin-right: 10px;  */   /*for active scroll bar */
+}
+
+.gameShow {
+    display: none;
+	font-size: 18px;
+	font-weight: bolder;
+	margin-top: 11px;
+}  

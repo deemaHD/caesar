@@ -1,0 +1,15 @@
+.group-logo {
+    width:100%;
+}
+
+.group-list {
+    margin:0px;
+}
+
+.group-container {
+    margin-top:10px;
+}
+.list-group-container {
+    background-color:#fafafa;
+    margin:0;
+}

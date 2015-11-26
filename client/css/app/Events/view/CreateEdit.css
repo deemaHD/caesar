@@ -1,0 +1,57 @@
+.tooltip.top .tooltip-arrow {
+    border-top-color: red;
+    top: 33px;
+    opacity: 0.5;
+}
+
+.tooltip-inner {
+    background-color: red;
+    width: 185px;
+    font-size: 15px;
+    opacity: 0.5;
+}
+
+.fullEventClose {
+    position: absolute;
+	top: 7px;
+	right:10px;
+}
+
+.toshowfirst, .toshow {
+    padding: 0;
+}
+
+.fullInfo, .fullEventClose {
+    cursor: pointer;
+}
+
+.fullEventClose{
+    margin-top: 4px;
+}
+
+
+.eventsScroll {
+    overflow: auto;
+}
+.btn {
+    padding: 6px 8px;
+}
+
+.returnName:hover {
+    cursor: pointer;
+}
+
+
+@media (min-width: 768px) {
+    .myAnimateClass {
+        width: 600px;
+        margin: 20px auto;
+    }
+}
+
+li.resource {
+    cursor: pointer;
+}
+ul.resource-field.list-group {
+    padding-top: 34px;
+}

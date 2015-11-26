@@ -1,0 +1,149 @@
+[
+	{
+		"id": 0,
+		"name": "New Year's Day",
+		"locationCountry": 0,
+		"date": "01/01/2015",
+		"isActive": []
+	},
+	{
+		"id": 1,
+		"name": "Christmas",
+		"locationCountry": 0,
+		"date": "01/07/2015",
+		"isActive": []
+	},
+	{
+		"id": 2,
+		"name": "International Women's Day",
+		"locationCountry": 0,
+		"date": "03/08/2015",
+		"isActive": []
+	},
+	{
+		"id": 3,
+		"name": "Easter",
+		"locationCountry": 0,
+		"date": "04/12/2015",
+		"isActive": []
+	},
+		{
+		"id": 4,
+		"name": "Pentecost",
+		"locationCountry": 0,
+		"date": "05/30/2015",
+		"isActive": []
+	},
+	{
+		"id": 5,
+		"name": "International Workers' Day",
+		"locationCountry": 0,
+		"date": "05/01/2015",
+		"isActive": []
+	},
+	{
+		"id": 6,
+		"name": "Victory Day over Nazism in World War II",
+		"locationCountry": 0,
+		"date": "05/09/2015",
+		"isActive": []
+	},
+	{
+		"id": 7,
+		"name": "Constitution Day",
+		"locationCountry": 0,
+		"date": "06/28/2015",
+		"isActive": []
+	},
+	{
+		"id": 8,
+		"name": "Independence Day",
+		"locationCountry": 0,
+		"date": "08/24/2015",
+		"isActive": []
+	},
+	{
+		"id": 9,
+		"name": "Defender of Ukraine Day",
+		"locationCountry": 0,
+		"date": "10/14/2015",
+		"isActive": []
+	},
+	{
+		"id": 10,
+		"name": "New Year's Day",
+		"locationCountry": 1,
+		"date": "01/01/2015",
+		"isActive": []
+	},
+	{
+		"id": 11,
+		"name": "Liberation Day",
+		"locationCountry": 1,
+		"date": "03/03/2015",
+		"isActive": []
+	},
+	{
+		"id": 12,
+		"name": "Easter",
+		"locationCountry": 1,
+		"date": "04/12/2015",
+		"isActive": []
+	},
+	{
+		"id": 13,
+		"name": "Labour Day",
+		"locationCountry": 1,
+		"date": "05/01/2015",
+		"isActive": []
+	},
+	{
+		"id": 14,
+		"name": "St. George's Day",
+		"locationCountry": 1,
+		"date": "05/06/2015",
+		"isActive": []
+	},
+	{
+		"id": 15,
+		"name": "Bulgarian Education and Culture, and Slavonic Literature Day",
+		"locationCountry": 1,
+		"date": "07/01/2015",
+		"isActive": []
+	},
+	{
+		"id": 16,
+		"name": "Unification Day",
+		"locationCountry": 1,
+		"date": "09/06/2015",
+		"isActive": []
+	},
+	{
+		"id": 17,
+		"name": "Independence Day",
+		"locationCountry": 1,
+		"date": "09/22/2015",
+		"isActive": []
+	},
+	{
+		"id": 18,
+		"name": "Christmas Eve",
+		"locationCountry": 1,
+		"date": "12/24/2015",
+		"isActive": []
+	},
+	{
+		"id": 19,
+		"name": "Christmas Day",
+		"locationCountry": 1,
+		"date": "12/25/2015",
+		"isActive": []
+	},
+	{
+		"id": 20,
+		"name": "Second Day of Christmas",
+		"locationCountry": 1,
+		"date": "12/26/2015",
+		"isActive": []
+	}		
+]

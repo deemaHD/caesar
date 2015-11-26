@@ -1,0 +1,74 @@
+[
+	{
+		"id": 0,
+		"name": "DP 080 UI",
+		"type": 0,
+		"locationCity": 2,
+		"dateStart": "01/08/2015",
+		"dateFinish": "03/10/2015",
+		"useInSchedule": true
+	},
+	{
+		"id": 1,
+		"name": "703",
+		"type": 1,
+		"locationCity": 2,
+		"dateStart": "01/08/2015",
+		"dateFinish": "03/10/2015",
+		"useInSchedule": true
+	},
+	{
+		"id": 2,
+		"name": "Petin D.",
+		"type": 2,
+		"locationCity": 2,
+		"dateStart": "01/08/2015",
+		"dateFinish": "03/10/2015",
+		"useInSchedule": true
+	},
+	{
+		"id": 3,
+		"name": "DP 076 ATQC",
+		"type": 0,
+		"locationCity": 2,
+		"dateStart": "01/08/2015",
+		"dateFinish": "03/10/2015",
+		"useInSchedule": true
+	},
+	{
+		"id": 4,
+		"name": "714",
+		"type": 1,
+		"locationCity": 2,
+		"dateStart": "01/08/2015",
+		"dateFinish": "03/10/2015",
+		"useInSchedule": true
+	},
+	{
+		"id": 5,
+		"name": "Mister X",
+		"type": 2,
+		"locationCity": 2,
+		"dateStart": "01/08/2015",
+		"dateFinish": "03/10/2015",
+		"useInSchedule": true
+	},
+	{
+		"id": 6,
+		"name": "Mister teacher for Ivano-Frankivsk",
+		"type": 2,
+		"locationCity": 3,
+		"dateStart": "01/08/2015",
+		"dateFinish": "03/10/2015",
+		"useInSchedule": true
+	},
+	{
+		"id": 6,
+		"name": "777 for Kyiv",
+		"type": 1,
+		"locationCity": 1,
+		"dateStart": "01/08/2015",
+		"dateFinish": "03/10/2015",
+		"useInSchedule": true
+	}
+]

@@ -1,0 +1,7 @@
+.idea
+dist
+node_modules
+npm-debug.log
+events.js
+resources.js
+weeks.js

@@ -1,0 +1,18 @@
+[
+	{
+		"id": 0,
+		"name": "lecture"
+	},
+	{
+		"id": 1,
+		"name": "scrum"
+	},
+	{
+		"id": 2,
+		"name": "practice"
+	},
+	{
+		"id": 3,
+		"name": "weekly report"
+	}
+]

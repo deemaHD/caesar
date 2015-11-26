@@ -1,0 +1,6 @@
+1. Start mongod server
+
+2. in current directory start command line: 
+   2.1. npm install
+   2.2. npm start
+   2.3. localhost:3000/reset
